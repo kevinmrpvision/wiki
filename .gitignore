@@ -1,0 +1,17 @@
+vendor/
+node_modules/
+npm-debug.log
+
+
+.env
+.vagrant
+.idea
+npm-debug.log
+yarn-error.log
+composer.lock
+Homestead.yaml
+Homestead.json
+nbproject/
+composer.lock
+LocalSettings.php
+nbproject/private/
